@@ -39,8 +39,8 @@ bundle install
 bundle exec jekyll server --watch
 ```
 
-Now navigate to [localhost:4000](http://localhost:4000/) to preview the site, and
-[localhost:4000/admin](http://localhost:4000/admin) to log into the CMS.
+Now navigate to [localhost:4001](http://localhost:4001/) to preview the site, and
+[localhost:4001/admin](http://localhost:4001/admin) to log into the CMS.
 
 ## Authenticating without Netlify Identity
 
