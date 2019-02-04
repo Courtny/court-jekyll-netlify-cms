@@ -1,0 +1,54 @@
+---
+layout: default
+title: Home
+description: The primary homepage of my personal website.
+featured_image: /images/home.jpg
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Courtny is a designer
+			who can research and code.</h1>
+		<p>I'm also a father, <a href="http://cottentales.com/">husband</a>, <a href="https://www.instagram.com/p/BlgGu8bAZf1/">coach</a> & bodybuilder.</p>
+		<p>My passion is understanding how human emotion impacts our work. I help people and teams who want to improve their products & services. I'm focused on being a leader, a team player, and leveraging my technical design skills to help all.</p>
+		<p>Right now I am working with the folks at Stack Overflow to create good things. Previously I led design projects at Universal Mind, and was the principal designer at Software Engineering Professionals.</p>
+
+		<!-- {% include socials.html %} -->
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for project in site.projects reversed %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ project.featured_image }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ project.url }}">{{ project.title }}</a></h2>
+					<p class="post__subtitle">{{ project.subtitle }}</p>
+					<p class="post__description">{{ project.description }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
