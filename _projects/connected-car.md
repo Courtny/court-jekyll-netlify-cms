@@ -3,7 +3,7 @@ title: AT&T Connected Car
 subtitle: 'Industrial Design, App Design, Systems Design'
 description: Creating an industry defining driver & vehicle experience.
 challenge: >-
-  TTTTCreate a physical & digital experience for demonstrating vehicle cellular
+  Create a physical & digital experience for demonstrating vehicle cellular
   connectivity.
 role: >-
   Research, interface design, physical product design, human factors,
