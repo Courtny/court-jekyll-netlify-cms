@@ -21,9 +21,16 @@ layout: default
 
 	<div class="wrap">
 
-		<article class="single-post">
-
-			{{ page.content }}
+		<article class="grid single-post ">
+			<aside class="col-xs-4 project-overview-aside">
+				<h4>The challenge</h4>
+				<p>{{ page.challenge }}</p>
+				<h4>My role</h4>
+				<p>{{ page.role }}</p>
+				<h4>Project Date</h4>
+				<p>{{ page.projectdate }}</p>
+			</aside>
+			<div class="col-xs-8">{{ page.content }}</div>
 
 		</article>
 

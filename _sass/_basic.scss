@@ -394,13 +394,13 @@ section {
 		margin-top: 0;
 	} */
 
-	h1, h2, h3, h4, p, ul, ol {
+	/*h1, h2, h3, h4, p, ul, ol {
 		width: 100%;
 		@include mq(tabletl) {
 		width: calc(66.66% - 1rem);
 		margin-right: auto;
 		}
-	}
+	}*/
 
 	blockquote p {
 		width: 100%;
@@ -408,12 +408,12 @@ section {
 
 	aside {
 
-		@include mq(tabletl) {
+		/*@include mq(tabletl) {
 			width: calc(33.33% - 1rem);
 			float: right;
 			margin-left: auto;
 			clear: both;
-		}
+		}*/
 		h4, p {
 			width: 100%;
 			font-family: 'IBM Plex Mono', monospace;
@@ -429,11 +429,11 @@ section {
 
 	.project-overview-aside {
 
-		@include mq(tabletl) {
+		/*@include mq(tabletl) {
 			border-top: 2px solid $border-color;
 			border-bottom: 2px solid $border-color;
 			padding: 1.5rem 0;
-		}
+		}*/
 	}
 
 }
