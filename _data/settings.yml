@@ -23,7 +23,7 @@ footer_settings:
   footer_tagline: 'Relationships are the most important output of our work. They endure far longer than the products we build.'
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.9
 
 post_settings:
   grid_spacing: 10
