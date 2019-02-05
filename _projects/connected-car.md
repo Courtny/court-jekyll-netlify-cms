@@ -1,11 +1,13 @@
 ---
 title: AT&T Connected Car
 subtitle: 'Industrial Design, App Design, Systems Design'
-date: 2013-06-30 00:00:00
-description: 'Creating an industry defining driver & vehicle experience.'
-featured_image: '/images/demo/demo-square.jpg'
-challenge: 'Create a physical & digital experience for demonstrating vehicle cellular connectivity.'
-role: 'Research, interface design, physical product design, human factors, iconography, illustration, iOS artwork production'
+description: Creating an industry defining driver & vehicle experience.
+challenge: >-
+  TTTTCreate a physical & digital experience for demonstrating vehicle cellular
+  connectivity.
+role: >-
+  Research, interface design, physical product design, human factors,
+  iconography, illustration, iOS artwork production
 projectdate: '2013'
 ---
 
