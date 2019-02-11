@@ -9,34 +9,25 @@ role: >-
   Research, interface design, physical product design, human factors,
   iconography, illustration, iOS artwork production
 projectdate: '2013'
-summary: >-
-  AT&T wanted to tap into the auto industry as their next target to expand their
-  services. Their leadership had identified the unique potential that auto
-  manufacturers could provide to buyers if their vehicles were "connected" via
-  cellular data.
-
-
-  To demonstrate this, they wanted to take all the tools and apps people had
-  come to rely on — cell phone, navigation, calendars, streaming music, voice
-  recognition, live weather, etc., and bring them into a car’s center console.
-
-
-  My duties on this project were to serve as the project's Lead Designer. I
-  worked with a cross functional team, as well as two outside teams to bring
-  this project to life.
-
-
-  Our mission was to create a prototype of this imagined car console ... and
-  they wanted it in two months. We were tackling a new, high value concept on a
-  tight timeline.
-
-
-  The idea was to create a world-class connected car demo visualizing how the
-  modern consumer will interact with a car powered by AT&T cellular data
-  services.
+featured_image: '/images/att/att_pic1_retina-1280x720.jpg'
+date: 2014-01-30 00:00:00
 ---
+
+## Project Summary
+
+AT&T wanted to tap into the auto industry as their next target to expand their services. Their leadership had identified the unique potential that auto manufacturers could provide to buyers if their vehicles were "connected" via cellular data.
+
+To demonstrate this, they wanted to take all the tools and apps people had come to rely on — cell phone, navigation, calendars, streaming music, voice recognition, live weather, etc., and bring them into a car’s center console.
+
+My duties on this project were to serve as the project's Lead Designer. I worked with a cross functional team, as well as two outside teams to bring this project to life.
+
+Our mission was to create a prototype of this imagined car console ... and they wanted it in two months.
+We were tackling a new, high value concept on a tight timeline.
+
+The idea was to create a world-class connected car demo visualizing how the modern consumer will interact with a car powered by AT&T cellular data services.
+
 <iframe src="https://player.vimeo.com/video/123196246" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-\_Official highlight reel by Universal Mind\_
+_Official highlight reel by Universal Mind_
 
 - - -
 
@@ -74,7 +65,7 @@ When I started this project I had no idea how to design for vehicles. It was 201
 
 The Tesla Roadster S (2008) was the first vehicle to really explore the concept of touchscreens in the vehicle on a mass production scale – displaying things like real-time data, estimated range, and power regeneration.
 
-For this project, I had to become a student of vehicular human interface guidelines. I dug up every Google Scholar article I could on the topic and did tear-downs of the very few vehicular display experiences that were available. It was a new frontier at that time, and it was an exciting \_(and sometimes overwhelming)\_ undertaking.
+For this project, I had to become a student of vehicular human interface guidelines. I dug up every Google Scholar article I could on the topic and did tear-downs of the very few vehicular display experiences that were available. It was a new frontier at that time, and it was an exciting _(and sometimes overwhelming)_ undertaking.
 
 Prototyping
 
