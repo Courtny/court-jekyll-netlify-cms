@@ -1,8 +1,8 @@
 ---
 title: About me
-subtitle: Who I am
-description: This is my place
-featured_image: /images/demo/about.jpg
+subtitle: What makes me
+description: A few things explaining who I am.
+featured_image: /images/about.jpg
 ---
 
 ## Nice

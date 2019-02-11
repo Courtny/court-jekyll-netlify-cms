@@ -9,6 +9,8 @@ role: >-
   Research, interface design, physical product design, human factors,
   iconography, illustration, iOS artwork production
 projectdate: '2013'
+featured_image: '/images/demo/demo-square.jpg'
+date: 2014-01-30 00:00:00
 ---
 
 ## Project Summary

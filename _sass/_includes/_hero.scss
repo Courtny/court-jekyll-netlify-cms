@@ -8,7 +8,7 @@
 .hero {
 	position: relative;
 	margin-top: 20px;
-	padding: 60px 0 100px;
+	padding: 20px 0 100px;
 	background: $hero-background-color;
 
   a {
@@ -88,4 +88,12 @@
 	bottom: 0;
 	left: 0;
 	background: rgba($hero-background-color, $overlay-opacity);
+}
+
+.hero__intro {
+	img {
+		@include mq(tabletl) {
+			padding-left: 50px;
+		}
+	}
 }

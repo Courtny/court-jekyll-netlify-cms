@@ -10,14 +10,12 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Painting'
-      url: '/painting'
-    - title: 'Journal'
-      url: '/journal/'
-    - title: 'Contact'
-      url: '/contact'
+    #/- title: 'Testimonials'
+    #/  url: '/testimonials'
+    #/- title: 'About'
+    #/  url: '/about'
+    #/- title: 'Contact'
+    #/  url: '/contact'
 
 footer_settings:
   footer_tagline: 'Relationships are the most important output of our work. They endure far longer than the products we build.'
