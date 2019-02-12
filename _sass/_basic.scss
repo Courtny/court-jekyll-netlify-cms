@@ -398,18 +398,15 @@ section {
 		width: 100%;
 	}
 
-	aside {
+	.project-overview-aside {
 
 		h4, p {
-			width: 100%;
+			font-size: $p-small;
 			font-family: 'IBM Plex Mono', monospace;
 		}
 		p {
-			font-size: $p-medium;
+			margin-top: 0;
+			color: $text-medium-color;
 		}
-	}
-
-	aside+h2 {
-		margin-top: 0;
 	}
 }

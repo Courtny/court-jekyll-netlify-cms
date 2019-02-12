@@ -6,29 +6,52 @@ challenge: >-
   Create a physical & digital experience for demonstrating vehicle cellular
   connectivity.
 role: >-
-  Research, interface design, physical product design, human factors,
-  iconography, illustration, iOS artwork production
+  I lead the design of the vehicle user interface and had design oversight on the device fabrication.
+credits: >-
+    Matt Kortering, Rebecca Slatkin, Kellen Styler, Tekna (Device Fabrication), AT&T (Brand)
 projectdate: '2013'
 featured_image: '/images/att/att_pic1_retina-1280x720.jpg'
 date: 2014-01-30 00:00:00
 ---
+<div class="grid">
+<div class="col-md-4 order-md-2 project-overview-aside">
+  <h4>The challenge</h4>
+    <p>{{ page.challenge }}</p>
+  <h4>My role</h4>
+    <p>{{ page.role }}</p>
+  <h4>Credits</h4>
+    <p>{{ page.credits }}</p>
+  <h4>Project Date</h4>
+    <p>{{ page.projectdate }}</p>
+</div>
+<div class="col-md-8">
+    <h2>Project Summary</h2>
+    <p>
+    AT&T wanted to tap into the auto industry as their next target to expand their services. Their leadership had identified the unique potential that auto manufacturers could provide to buyers if their vehicles were "connected" via cellular data.
+    </p>
+    <p>
+    To demonstrate this, they wanted to take all the tools and apps people had come to rely on — cell phone, navigation, calendars, streaming music, voice recognition, live weather, etc., and bring them into a car’s center console.
+    </p>
+    <p>
+    My duties on this project were to serve as the project's Lead Designer. I worked with a cross functional team, as well as two outside teams to bring this project to life.
+    </p>
+    <p>
+    Our mission was to create a prototype of this imagined car console ... and they wanted it in two months.
+    We were tackling a new, high value concept on a tight timeline.
+    </p>
+    <p>
+    The idea was to create a world-class connected car demo visualizing how the modern consumer will interact with a car powered by AT&T cellular data services.
+    </p>
+</div>
+</div>
 
-## Project Summary
+<div class="grid">
+  <div class="col-12">
+  <iframe src="https://player.vimeo.com/video/123196246" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <em>Official highlight reel by Universal Mind</em>
+  </div>
 
-AT&T wanted to tap into the auto industry as their next target to expand their services. Their leadership had identified the unique potential that auto manufacturers could provide to buyers if their vehicles were "connected" via cellular data.
-
-To demonstrate this, they wanted to take all the tools and apps people had come to rely on — cell phone, navigation, calendars, streaming music, voice recognition, live weather, etc., and bring them into a car’s center console.
-
-My duties on this project were to serve as the project's Lead Designer. I worked with a cross functional team, as well as two outside teams to bring this project to life.
-
-Our mission was to create a prototype of this imagined car console ... and they wanted it in two months.
-We were tackling a new, high value concept on a tight timeline.
-
-The idea was to create a world-class connected car demo visualizing how the modern consumer will interact with a car powered by AT&T cellular data services.
-
-<iframe src="https://player.vimeo.com/video/123196246" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-_Official highlight reel by Universal Mind_
-
+<div class="col-8" markdown="1">
 - - -
 
 ## Process
@@ -44,19 +67,21 @@ Starting the project with a blank slate was a bonus, as Universal Mind was able 
 I worked closely with the team at AT&T to integrate their Connected Home framework, which allows users to turn off lights, control their television and more with their mobile devices. The idea was that everything in your life is connected, and you should be able to take it with you wherever you go.
 
 An emphasis was placed on safety from the very beginning. The belief was that even though a user’s phone should be out of their hands while driving, they don’t have to disconnect completely to stay safe. The screen in the front console shifts to a simpler mode with larger icons while the vehicle is in motion, for example, and video and other entertainment options are available only on the screen in the back seat.
-
+</div>
+<div class="col-8" markdown="1">
 - - -
 
 ## Designing a physical product
 
 This was one of the coolest things I have done. Designing a physical product is an awesome experience. Seeing the final artifact in person was impressive. I worked closely with a modeler at Tekna to prototype and define the physical features of the unit. There were several requirements for the center console. Some of the requirements:
+  * Had to be entirely self contained.
+  * TSA Portable, carry-on for salesman to travel with.
+  * From concept to delivery in less than 2 months time.
+  * Dedicated router, onboard power solution.
+  * Mask that it's an iOS device _(No iPad chrome showing)_
+</div>
 
-* Had to be entirely self contained.
-* TSA Portable, carry-on for salesman to travel with.
-* From concept to delivery in less than 2 months time.
-* Dedicated router, onboard power solution.
-* Mask that it's an iOS device _(No iPad chrome showing)_
-
+<div class="col-8" markdown="1">
 - - -
 
 ## Designing the software user experience
@@ -77,8 +102,8 @@ Visual Design:
 * Safety
 
 Final visual interface designs are showcased below.
-
-<div class="gallery" data-columns="3">
+</div>
+<div class="gallery col-12" data-columns="3">
 	<img src="/images/att/gallery/CIB_Page_04.png">
 	<img src="/images/att/gallery/CIB_Page_06.png">
 	<img src="/images/att/gallery/CIB_Page_08.png">
@@ -96,6 +121,7 @@ Final visual interface designs are showcased below.
   <img src="/images/att/gallery/CIB_Page_35.png">
 </div>
 
+<div class="col-8" markdown="1">
 - - -
 
 ## Collaborating with a Branding&trade; Team
@@ -105,7 +131,9 @@ Any project with a major brand requires a high level of diligence to ensure you'
 During this project, my task was to take the existing AT&T branding guidelines and expand them to an entirely new product frontier in the vehicle experience. There was not a lot of work done at this time for even touch devices, so a lot of my work was outlining new human factors guidelines, mentoring and advising the internal team on best practices, and driving adoption and agreement on brand critical decisions during this tight timeline.
 
 Working with an existing brand can be tough sometimes, however, I managed to find a truly pleasing balance when it came to the final output.
+</div>
 
+<div class="col-8" markdown="1">
 - - -
 
 ## Results
@@ -119,11 +147,7 @@ AT&T would go on to found the AT&T Drive Studio in January 2014, and is now the 
 Legacy:
 
 **Q3 2018 Numbers:** Nearly 27 Million Connected Vehicles; 29 Global Brands; 1 million-plus Wi-Fi hotspot subscriptions
+</div>
 
-- - -
 
-## Pretty cool, huh?
-
-Would you like me to help you do work similar to this?
-
-<div><a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Let's Chat</a></div>
+</div>
