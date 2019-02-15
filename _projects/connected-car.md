@@ -64,9 +64,9 @@ Within the two month timeframe, our crew at Universal Mind delivered a working p
 
 AT&T’s Emerging Devices Group was able to take their sales demonstration on the road to the car manufacturing industry, fully realizing the vision of the connected car experience.
 
-Starting the project with a blank slate was a bonus, as Universal Mind was able to design the user experience and the physical user interface at the same time. Given the tight two-month deadline, rough initial sketches progressed quickly to wire framing, design, development and deployment.
+Starting the project with a blank slate was a bonus, allowing me to design the user experience and the physical user interface at the same time. Given the tight two-month deadline, rough initial sketches progressed quickly to wire framing, design, development and deployment.
 
-I worked closely with the team at AT&T to integrate their Connected Home framework, which allows users to turn off lights, control their television and more with their mobile devices. The idea was that everything in your life is connected, and you should be able to take it with you wherever you go.
+I worked closely with the team at AT&T to integrate their Connected Home framework features, which allows users to turn off lights, control their television and more with their mobile devices. The idea was that everything in your life is connected, and you should be able to take it with you wherever you go.
 
 An emphasis was placed on safety from the very beginning. The belief was that even though a user’s phone should be out of their hands while driving, they don’t have to disconnect completely to stay safe. The screen in the front console shifts to a simpler mode with larger icons while the vehicle is in motion, for example, and video and other entertainment options are available only on the screen in the back seat.
 </div>
@@ -90,7 +90,12 @@ This was one of the coolest things I have done. Designing a physical product is 
   * Mask that it's an iOS device _(No iPad chrome showing)_
 </div>
 <div class="col-12">
-<img src="/images/att/process-physical.png">
+<img style="width:100%" src="/images/att/process-physical-crunch.png">
+<div class="gallery" data-columns="3">
+	<img src="/images/att/gallery/buck-interior-crunch.png">
+	<img src="/images/att/gallery/buck-profile-crunch.png">
+	<img src="/images/att/gallery/buck-rear-crunch.png">
+</div>
 </div>
 
 <div class="col-md-8" markdown="1">
