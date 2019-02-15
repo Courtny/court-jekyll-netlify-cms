@@ -1,17 +1,17 @@
 ---
 title: AT&T Connected Car
-subtitle: 'Industrial Design, App Design, Systems Design'
+subtitle: 'Physical Product, App, Systems Design'
 description: Creating an industry defining driver & vehicle experience.
 challenge: >-
   Create a physical & digital experience for demonstrating vehicle cellular
   connectivity.
 role: >-
-  I lead the design of the vehicle user interface and had design oversight on the device fabrication.
+  Lead the design of the vehicle user interface and design oversight on the device fabrication.
 credits: >-
-    Matt Kortering, Rebecca Slatkin, Kellen Styler, Tekna (Device Fabrication), AT&T (Brand)
+    Tekna (Device Fabrication), AT&T (Brand)
 projectdate: '2013'
 featured_image: '/images/att/att_pic1_retina-1280x720.jpg'
-date: 2014-01-30 00:00:00
+date: 2019-01-12 00:00:00
 ---
 <div class="grid">
 <div class="col-md-4 order-md-2 project-overview-aside">
@@ -42,16 +42,18 @@ date: 2014-01-30 00:00:00
     <p>
     The idea was to create a world-class connected car demo visualizing how the modern consumer will interact with a car powered by AT&T cellular data services.
     </p>
+    <br>
 </div>
 </div>
 
 <div class="grid">
+
   <div class="col-12">
   <iframe src="https://player.vimeo.com/video/123196246" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <em>Official highlight reel by Universal Mind</em>
   </div>
 
-<div class="col-8" markdown="1">
+<div class="col-md-8" markdown="1">
 - - -
 
 ## Process
@@ -68,7 +70,14 @@ I worked closely with the team at AT&T to integrate their Connected Home framewo
 
 An emphasis was placed on safety from the very beginning. The belief was that even though a user’s phone should be out of their hands while driving, they don’t have to disconnect completely to stay safe. The screen in the front console shifts to a simpler mode with larger icons while the vehicle is in motion, for example, and video and other entertainment options are available only on the screen in the back seat.
 </div>
-<div class="col-8" markdown="1">
+
+<div class="gallery col-12" data-columns="3">
+	<img src="/images/att/gallery/ATT-Wire_Page_02-crunch.png">
+	<img src="/images/att/gallery/ATT-Wire_Page_07-crunch.png">
+	<img src="/images/att/gallery/ATT-Wire_Page_45-crunch.png">
+</div>
+
+<div class="col-md-8" markdown="1">
 - - -
 
 ## Designing a physical product
@@ -80,8 +89,11 @@ This was one of the coolest things I have done. Designing a physical product is 
   * Dedicated router, onboard power solution.
   * Mask that it's an iOS device _(No iPad chrome showing)_
 </div>
+<div class="col-12">
+<img src="/images/att/process-physical.png">
+</div>
 
-<div class="col-8" markdown="1">
+<div class="col-md-8" markdown="1">
 - - -
 
 ## Designing the software user experience
@@ -92,36 +104,55 @@ The Tesla Roadster S (2008) was the first vehicle to really explore the concept 
 
 For this project, I had to become a student of vehicular human interface guidelines. I dug up every Google Scholar article I could on the topic and did tear-downs of the very few vehicular display experiences that were available. It was a new frontier at that time, and it was an exciting _(and sometimes overwhelming)_ undertaking.
 
-Prototyping
-
-Visual Design:
-
-* Typography
-* Human factors
-* Iconography
-* Safety
-
 Final visual interface designs are showcased below.
 </div>
 <div class="gallery col-12" data-columns="3">
-	<img src="/images/att/gallery/CIB_Page_04.png">
-	<img src="/images/att/gallery/CIB_Page_06.png">
-	<img src="/images/att/gallery/CIB_Page_08.png">
-	<img src="/images/att/gallery/CIB_Page_13.png">
-  <img src="/images/att/gallery/CIB_Page_14.png">
-  <img src="/images/att/gallery/CIB_Page_15.png">
-  <img src="/images/att/gallery/CIB_Page_16.png">
-  <img src="/images/att/gallery/CIB_Page_19.png">
-  <img src="/images/att/gallery/CIB_Page_20.png">
-  <img src="/images/att/gallery/CIB_Page_21.png">
-  <img src="/images/att/gallery/CIB_Page_23.png">
-  <img src="/images/att/gallery/CIB_Page_25.png">
-  <img src="/images/att/gallery/CIB_Page_28.png">
-  <img src="/images/att/gallery/CIB_Page_20.png">
-  <img src="/images/att/gallery/CIB_Page_35.png">
+	<img src="/images/att/gallery/CIB_Page_04-crunch.png">
+	<img src="/images/att/gallery/CIB_Page_06-crunch.png">
+	<img src="/images/att/gallery/CIB_Page_08-crunch.png">
+	<img src="/images/att/gallery/CIB_Page_13-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_14-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_15-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_16-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_19-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_20-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_21-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_23-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_25-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_28-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_20-crunch.png">
+  <img src="/images/att/gallery/CIB_Page_35-crunch.png">
 </div>
 
-<div class="col-8" markdown="1">
+<div class="col-md-8" markdown="1">
+  As part of the design system, I identified key components to the success of the high fidelity user interface.
+
+  **TYPOGRAPHY**
+
+  The design language for this project relied on traditional typographic tools such as scale, space, rhythm, and alignment with an underlying grid. Successful deployment of these tools was essential to help users quickly understand a screen of information from driving distance.
+
+  To support such use of typography, I selected Clearview ATT (AT&T's emerging devices typeface) as it was more suited specifically for the requirements of UI and high-resolution screens. The family supported light, regular, bold, italic, and bold italic weights by default.
+
+  **COLOR**
+
+  The use color was primarily for emphasis.
+
+  Due to the unique nature of the project, certain considerations were made in order to execute the visual design in adherence with those who are visually impaired, or may be dealing with screen glare in the vehicle. Note that red and green may be indistinguishable to color-blind users. We tweaked the colors to be compliant at the primary driver’s viewing angles and light availability.
+
+  **ICONOGRAPHY**
+
+  We quickly established that we’d need a number of icons unique to the project. It was my job to define and design these, working with branding to get the approved.
+
+  Hero icons were the primary visual metaphors representing features such as "navigation" and "radio." Each one employed a simple metaphor representing a single concept that most people could grasp at a glance.
+
+  Heroes were: radio, navigation, phone, home control, system settings, email, calendar, vehicle statistics, and all the different weather variations!
+
+  Action & Status icons were graphic buttons that represented the most important actions or status indications people would see on screen.
+
+  These included: Home, Back, Dismiss / Close, Collapse, Radio Controls: Play/Pause/Repeat/Shuffle/Forward/Back, Temperature, Locked, Video Feed and many others.
+</div>
+
+<div class="col-md-8" markdown="1">
 - - -
 
 ## Collaborating with a Branding&trade; Team
@@ -133,12 +164,12 @@ During this project, my task was to take the existing AT&T branding guidelines a
 Working with an existing brand can be tough sometimes, however, I managed to find a truly pleasing balance when it came to the final output.
 </div>
 
-<div class="col-8" markdown="1">
+<div class="col-md-8" markdown="1">
 - - -
 
 ## Results
 
-The mock dashboard was delivered on-time and received with **butt-loads** of enthusiasm.
+The mock dashboard was delivered on-time and received with **overwhelming** enthusiasm.
 
 The prototypes our team designed and built were placed into the hands of AT&T sales representatives to take to vehicle manufacturers and showcase possibilities.
 

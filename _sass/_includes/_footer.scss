@@ -52,11 +52,13 @@
 
 .footer__text {
 	color: $text-light-color;
+	padding-bottom: 10px;
 }
 
 .footer__copyright {
 	display: block;
 	margin-top: 10px;
+	line-height: normal;
 	font-size: 13px;
 	color: $text-light-color;
 
